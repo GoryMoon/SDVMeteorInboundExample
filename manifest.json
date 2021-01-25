@@ -1,0 +1,15 @@
+﻿{
+  "Name": "MeteorInboundExample",
+  "Author": "GoryMoon",
+  "Version": "1.0.0",
+  "Description": "An example mod the play custom sounds",
+  "UniqueID": "GoryMoon.MeteorInboundExample",
+  "EntryDll": "MeteorInboundExample.dll",
+  "MinimumApiVersion": "3.0.0",
+  "UpdateKeys": [],
+  "Dependencies": [
+    {
+      "UniqueID": "Omegasis.SimpleSoundManager"
+    }
+  ]
+}

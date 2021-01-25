@@ -1,0 +1,12 @@
+{
+  "Name": "MeteorInboundContent",
+  "Author": "GoryMoon",
+  "Version": "1.0.0",
+  "Description": "An example for how to make content packs for Simple Sound Manager!",
+  "UniqueID": "GoryMoon.MeteorInboundContent",
+  "MinimumApiVersion": "3.0.0",
+  "UpdateKeys": [],
+  "ContentPackFor": {
+    "UniqueID": "Omegasis.SimpleSoundManager"// the ID of required mod
+  }
+}
